@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-image: url(/assets/ef7fb1b37078b6a2aef8e40710446bfa.jpg);
+    background-position: center;
+    object-fit: fill;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(105, 142, 129);
+}
+
+header {
+    font-size: 30px;
+    text-align: right;
+    padding-bottom: 100px;
+    width: 95%;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1, h3, p {
+    padding-bottom: 30px;
+}
+
+p {
+    max-width: 700px;
+    font-size: 20px;
+}
+
+button {
+    background-color:  rgb(105, 142, 129);
+    border-radius: 5px;
+    height: 30px;
+    width: max-content;
+}
+
+footer {
+    text-align: center;
+    padding-top: 147px;
+}
+
